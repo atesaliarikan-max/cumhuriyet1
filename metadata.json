@@ -1,0 +1,6 @@
+{
+  "name": "Cumhuriyet İçin Koş",
+  "description": "Cumhuriyet Koşusu resmi web sitesi. 10K parkuru, dinamik koşu parkuru görseli, geri sayım sayacı, ödül ve yarış kuralları detayları ile anında Gemini destekli e-posta onaylı kayıt sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
